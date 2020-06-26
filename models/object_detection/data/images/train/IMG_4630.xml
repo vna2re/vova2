@@ -1,0 +1,26 @@
+<annotation>
+	<folder>res</folder>
+	<filename>IMG_4630.JPG</filename>
+	<path>C:\Users\youbo\Desktop\res\IMG_4630.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>medical_mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>221</ymin>
+			<xmax>737</xmax>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+</annotation>
